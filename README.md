@@ -1,2 +1,2 @@
-# Gamer-Performance-Driver
+# Gamer Performance Driver
 Boost your performance while gaming
